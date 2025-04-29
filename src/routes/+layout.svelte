@@ -1,11 +1,11 @@
 <script lang="ts">
 	import Heder from '$lib/components/Heder.svelte';
-import {Container,Stules} from '@svelte'
+import {Container,Styles} from '@sveltestrap/sveltestrap'
 const {children} = $props();
 </script>
-<Stules>
+<Styles/>
     <Container>
-        </Heder>
+        <Heder/>
             {@render children()}
        
     </Container>
