@@ -1,5 +1,5 @@
 <script lang="ts">
-    import { Card, CardBody, CardHeader, CardImg, CardText, Col, Container, Image, Row } from "@sveltestrap/sveltestrap";
+    import { Card, CardBody, CardHeader, CardImg, CardText, Col, Container, Form, FormGroup, FormText, Image, Row, Input, Button } from "@sveltestrap/sveltestrap";
 </script>
 
 <svelte:head>
@@ -40,4 +40,12 @@
     </Card>
 </Col>
 </Row>
+<Form>
+    <h1>Оставить заявку на покупку</h1>
+    <FormGroup>
+        <FormText>Ваш email</FormText>
+        <Input type="email"/>
+    </FormGroup>
+    <Button color="success" class="w-100">Оставить заявку на покупку</Button>
+</Form>
 </Container>
