@@ -10,7 +10,7 @@
                 <NavLink href="/about">О нас</NavLink>
             </NavItem>
             <NavItem>
-                <NavLink href="/cars">О нас</NavLink>
+                <NavLink href="/contacts">Контакты</NavLink>
             </NavItem>
         </Nav>
     </Navbar>

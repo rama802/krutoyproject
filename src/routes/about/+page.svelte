@@ -7,35 +7,35 @@
 </svelte:head>
 
 <Container class="shadow-ld p-2">
-<h1 class="text-center">Добро пожаловать на главную страницу!</h1>
-<p>Работу представляет:Ашрапов Рамазан Ленарович</p>
-<p>Тема:lada vesta</p>
+<h1 class="text-center">Добро пожаловать на страницу О нас</h1>
+<p>Мы бизнесмены по производству говна </p>
+<p>Тема:VAZ</p>
 
 <Row>
     <Col>
         <Card>
-            <CardHeader>lada vesta</CardHeader>
+            <CardHeader></CardHeader>
             <CardBody>
-                <CardImg src="https://a.d-cd.net/kzc-qpUTZyiGgYTABZ9ravB1kPg-1920.jpg"/>
-                <CardText>106л.с</CardText>
+                <CardImg src="https://a.d-cd.net/NecmtOfuI0hWl6jVC1BUyhUi7lc-960.jpg"/>
+                <CardText></CardText>
             </CardBody>
         </Card>
     </Col>
     <Col>
         <Card>
-            <CardHeader>lada vesta</CardHeader>
+            <CardHeader>VAZ</CardHeader>
             <CardBody>
-                <CardImg src="https://avatars.mds.yandex.net/i?id=4cb5e5c7d7eff7658f3ba2cec61ad7d4_l-11741862-images-thumbs&n=13"/>
-                <CardText>Рядный, 4-цилиндровый бензиновый двигатель объёмом 1,6 литра</CardText>
+                <CardImg src="https://cdnstatic.rg.ru/uploads/images/2024/04/11/miro2902_442_48d.jpg"/>
+                <CardText></CardText>
             </CardBody>
         </Card>
     </Col>
     <Col>
     <Card>
-        <CardHeader>lada vesta</CardHeader>
+        <CardHeader>VAZ</CardHeader>
         <CardBody>
-            <CardImg src="https://avatars.mds.yandex.net/i?id=1505a1ce1b7a7b84461dd2a9d1e8652a_l-5167445-images-thumbs&n=13"/>
-            <CardText>Производство LADA Vesta началось 25 сентября 2015 года на </CardText>
+            <CardImg src="https://avatars.mds.yandex.net/get-autoru-vos/1552469/40f15c0ccea7d4bf1b00d9a4e9f89cec/1200x900n"/>
+            <CardText> </CardText>
         </CardBody>
     </Card>
 </Col>
